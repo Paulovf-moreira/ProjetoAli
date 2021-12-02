@@ -1,0 +1,48 @@
+.example-container {
+    position: absolute;
+    top: 60px;
+    bottom: 60px;
+    left: 0;
+    right: 0;
+  }
+  
+  .example-sidenav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    background: rgba(212, 205, 205, 0.465);
+  }
+  
+  header{
+    background-color: rgb(211, 206, 206);
+    color: black;
+    height: 80px;
+    box-shadow: 1px 1px 3px silver;
+}
+header img{
+  height: 55px;
+}
+  
+  a{
+    text-decoration: none;
+    font-size: 20px;
+  }
+  h3{
+    font-size: 20px;
+  }
+
+  .form-control{
+    width: 400px;
+    position: absolute;
+    right: 300px;
+    
+}
+.d-none{
+  position: absolute;
+  right: 0px
+}
+
+.teste{
+  width: 100px;
+}

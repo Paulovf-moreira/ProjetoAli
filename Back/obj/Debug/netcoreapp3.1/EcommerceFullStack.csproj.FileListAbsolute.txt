@@ -1,0 +1,186 @@
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\EcommerceFullStack.exe
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\EcommerceFullStack.deps.json
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\EcommerceFullStack.runtimeconfig.json
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\EcommerceFullStack.runtimeconfig.dev.json
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\EcommerceFullStack.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\EcommerceFullStack.pdb
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\EcommerceFullStack.csproj.AssemblyReference.cache
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\EcommerceFullStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\EcommerceFullStack.AssemblyInfoInputs.cache
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\EcommerceFullStack.AssemblyInfo.cs
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\EcommerceFullStack.csproj.CoreCompileInputs.cache
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\EcommerceFullStack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceFullStack.StaticWebAssets.Manifest.cache
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceFullStack.StaticWebAssets.xml
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\scopedcss\bundle\EcommerceFullStack.styles.css
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\EcommerceFullStack.RazorTargetAssemblyInfo.cache
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\EcommerceFullStack.csproj.CopyComplete
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\EcommerceFullStack.dll
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\EcommerceFullStack.pdb
+C:\Users\Cleber\source\repos\EcommerceFullStack\EcommerceFullStack\obj\Debug\netcoreapp3.1\EcommerceFullStack.genruntimeconfig.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\EcommerceFullStack.exe
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\EcommerceFullStack.deps.json
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\EcommerceFullStack.runtimeconfig.json
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\EcommerceFullStack.runtimeconfig.dev.json
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\EcommerceFullStack.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\EcommerceFullStack.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\EcommerceFullStack.csproj.AssemblyReference.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\EcommerceFullStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\EcommerceFullStack.AssemblyInfoInputs.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\EcommerceFullStack.AssemblyInfo.cs
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\EcommerceFullStack.csproj.CoreCompileInputs.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\EcommerceFullStack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceFullStack.StaticWebAssets.Manifest.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceFullStack.StaticWebAssets.xml
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\scopedcss\bundle\EcommerceFullStack.styles.css
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\EcommerceFullStack.RazorTargetAssemblyInfo.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\EcommerceFullStack.csproj.CopyComplete
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\EcommerceFullStack.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\EcommerceFullStack.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\backend ecommerce\obj\Debug\netcoreapp3.1\EcommerceFullStack.genruntimeconfig.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\EcommerceFullStack.exe
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\EcommerceFullStack.deps.json
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\EcommerceFullStack.runtimeconfig.json
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\EcommerceFullStack.runtimeconfig.dev.json
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\EcommerceFullStack.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\EcommerceFullStack.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\EcommerceFullStack.csproj.AssemblyReference.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\EcommerceFullStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\EcommerceFullStack.AssemblyInfoInputs.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\EcommerceFullStack.AssemblyInfo.cs
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\EcommerceFullStack.csproj.CoreCompileInputs.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\EcommerceFullStack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceFullStack.StaticWebAssets.Manifest.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceFullStack.StaticWebAssets.xml
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\scopedcss\bundle\EcommerceFullStack.styles.css
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\EcommerceFullStack.RazorTargetAssemblyInfo.cache
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\EcommerceFullStack.csproj.CopyComplete
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\EcommerceFullStack.dll
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\EcommerceFullStack.pdb
+C:\Users\crono\Sistema de Suporte ALI\Projeto eCommerce\Back\obj\Debug\netcoreapp3.1\EcommerceFullStack.genruntimeconfig.cache

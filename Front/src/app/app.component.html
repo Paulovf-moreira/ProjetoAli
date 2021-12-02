@@ -1,0 +1,56 @@
+
+<mat-toolbar class="header">
+  <div>
+    <img class="teste" src="https://logodix.com/logo/16712.jpg" id="icon" alt="User Icon" />
+    <a [routerLink]="['/home']" style="color: black;">Mega Games</a>
+    <div class="d-none d-lg-flex col-md-1 text-end text-right">
+      <a class="btn-cart" href="javascript:" [routerLink]="['/carrinho']" routerLinkActive="router-link-active" ><img src="assets/imgs/Shopping-basket-full-icon.png" alt=""></a>          
+    </div>
+
+  </div>
+  
+  <input type="search" class="form-control" id="formGroupExampleInput" placeholder="Pesquisar">
+  <div class="d-none d-lg-flex col-md-2 text-end text-right">
+    <a type="button" class="btn btn-outline-primary me-2" [routerLink]="['/login']">Login</a>
+    <a type="button" class="btn btn-outline-primary me-2" [routerLink]="['/cadastro-usuario']">Cadastrar</a>
+  </div>
+  
+</mat-toolbar>
+<mat-sidenav-container class="example-container">
+
+  <mat-sidenav  #sidenav mode="side" opened class="example-sidenav">
+    <h3>Categorias</h3>
+    <a [routerLink]="['/xbox']">Xbox</a>
+    <br><br>
+    <a [routerLink]="['/playstation']">Playstation</a>
+    <br><br>
+    <a [routerLink]="['/nintendo']">Nintendo</a>
+    <br><br>
+    <a [routerLink]="['/classicos']">Classicos</a> 
+     <br><br>
+    <a [routerLink]="['/pc']">PC</a>
+    <br><br>
+    <a [routerLink]="['/mobile']">Mobile</a>
+    <br><br>
+    <a [routerLink]="['/geek-e-nerd']">Geek e Nerd</a>
+    <br><br>
+    <a [routerLink]="['/acessorios']">Acessorios</a>
+    <br><br>
+    <a [routerLink]="['/disney-infinity']">Disney Infinity</a>
+    <br><br>
+    <a [routerLink]="['/seminovos']">Seminovos</a>
+    <br><br>
+    <a [routerLink]="['/cadastro-produtos']">Cadastrar Produto</a>
+    <br><br>
+   
+  </mat-sidenav>
+  
+  <mat-sidenav-content>
+    <div class="container-fluid">
+      <router-outlet></router-outlet>
+  </div>
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+  
+</mat-sidenav-container>
+ 

@@ -1,0 +1,51 @@
+<h1>Cadastre-se </h1>
+
+<form (ngSubmit)="salvar()" [formGroup]="form" >
+  <div class="form-group col-md-6">
+    <label for="formGroupExampleInput">Nome</label>
+    <input type="text" class="form-control"  id="txtNome" formControlName="nomeFormControl" placeholder="Digite o seu Nome">
+  </div>
+  <div class="form-group col-md-6">
+      <label for="inputEmail4">Email</label>
+      <input type="email" class="form-control" formControlName="emailFormControl" id="inputEmail4"  placeholder="Email">
+  </div>
+    
+    <div class="form-group col-md-6">
+      <label for="inputPassword4">Senha</label>
+      <input type="password" class="form-control" id="inputPassword4" formControlName = "senhaFormControl" placeholder="Senha">
+    </div>
+    <div class="form-group col-md-6">
+      <label for="formGroupExampleInput">Data de Nascimento</label>
+      <input type="date" class="form-control" id="formGroupExampleInput" formControlName = "dataDeNascimentoFormControl" placeholder="dd/mm/aaaa">
+    </div>
+    <div class="form-group col-md-6">
+      <label for="formGroupExampleInput">CPF</label>
+      <input type="text" class="form-control" id="formGroupExampleInput" formControlName = "cpfFormControl" placeholder="Digite o seu CPF">
+    </div>
+    <div class="form-group col-md-6">
+      <label for="formGroupExampleInput">Rua</label>
+      <input type="text" class="form-control" id="formGroupExampleInput" formControlName = "ruaFormControl" placeholder="Rua santa tereza...">
+    </div>
+    <div class="form-group col-md-6">
+      <label for="formGroupExampleInput">Numero</label>
+      <input type="number" class="form-control" id="formGroupExampleInput" formControlName = "numeroFormControl" placeholder="157">
+    </div>
+    <div class="form-group col-md-6">
+      <label for="formGroupExampleInput">Complemento</label>
+      <input type="text" class="form-control" id="formGroupExampleInput" formControlName = "complementoFormControl" placeholder="perto da coca cola">
+    </div>
+    <div class="form-group col-md-6">
+      <label for="formGroupExampleInput">Bairro</label>
+      <input type="text" class="form-control" id="formGroupExampleInput" formControlName = "bairroFormControl" placeholder="Parque dos ipês">
+    </div>
+    <div class="form-group col-md-6">
+      <label for="formGroupExampleInput">Cidade</label>
+      <input type="text" class="form-control" id="formGroupExampleInput" formControlName = "cidadeFormControl" placeholder="Rio de Janeiro">
+    </div>
+    <div class="form-group col-md-6">
+      <label for="formGroupExampleInput">CEP</label>
+      <input type="number" class="form-control" id="formGroupExampleInput" formControlName = "cepFormControl" placeholder="06854785">
+    </div>
+    
+    <button type="submit" class="btn btn-primary" value="salvar">Cadastrar</button>
+  </form>
